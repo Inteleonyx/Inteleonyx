@@ -1,6 +1,9 @@
 # Hi there 👋
 I'm Inteleon, a fullstack developer focused on minecraft and discord.
 
+# 📫 How to contact me?
+Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
+
 # 💻 Skills
 - Tools:
 
