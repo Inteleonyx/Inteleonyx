@@ -19,4 +19,4 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
   
 - Programming languages
 
-Java, JavaScript, Python
+  Java, JavaScript, Python
