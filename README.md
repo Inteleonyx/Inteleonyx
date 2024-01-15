@@ -7,7 +7,7 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
 # 💻 Skills
 - Tools:
 
-  IntelliJ IDEA, Visual Studio Code, Powershell, Windows Terminal, XAMPP
+  IntelliJ IDEA, Visual Studio Code, Powershell, Windows Terminal, XAMPP, OBS Studio, PremierePro, CurseForge, Canva
 
 - Servers:
 
