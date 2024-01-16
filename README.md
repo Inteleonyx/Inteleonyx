@@ -27,4 +27,4 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
 
 # 📈 Stats:
 
-[![wakatime](https://wakatime.com/badge/user/018d0fc7-22b5-4313-ada8-9b7e410bdbdb.svg)](https://wakatime.com/@018d0fc7-22b5-4313-ada8-9b7e410bdbdb), [![Inteleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inteleonyx)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/018d0fc7-22b5-4313-ada8-9b7e410bdbdb.svg)](https://wakatime.com/@018d0fc7-22b5-4313-ada8-9b7e410bdbdb), [![Inteleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inteleonyx)](https://github.com/anuraghazra/github-readme-stats)[![github](https://img.shields.io/github/followers/Inteleonyx?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
