@@ -31,3 +31,5 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
 ![1200px-Java_programming_language_logo svg](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/09576be5-e29d-4b5e-a501-ab4e1c0bfa0d) ![python-logo](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/d2e8eb28-0ddd-4b96-9afe-c8a4a02307a5) ![Typescript_logo_2020 svg](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/3b638462-e4c3-483c-b9ca-3c030c224c0f) ![JavaScript-logo](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/f8cd0f61-a098-4ddf-81bf-f726ba9ab1ff)
 
 # 📈 Stats:
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)
