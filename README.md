@@ -1,6 +1,11 @@
 # Hi there 👋
 I'm Inteleon, a fullstack developer focused on minecraft and discord.
 
+[![wakatime](https://wakatime.com/badge/user/018d0fc7-22b5-4313-ada8-9b7e410bdbdb.svg)](https://wakatime.com/@018d0fc7-22b5-4313-ada8-9b7e410bdbdb) [![github](https://img.shields.io/github/followers/Inteleonyx?logo=github&style=plastic)](https://github.com/Inteleonyx?tab=followers)
+
+
+# 🔎 Some things about me
+
 # 📫 How to contact me?
 Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
 
@@ -26,5 +31,3 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
 ![1200px-Java_programming_language_logo svg](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/09576be5-e29d-4b5e-a501-ab4e1c0bfa0d) ![python-logo](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/d2e8eb28-0ddd-4b96-9afe-c8a4a02307a5) ![Typescript_logo_2020 svg](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/3b638462-e4c3-483c-b9ca-3c030c224c0f) ![JavaScript-logo](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/f8cd0f61-a098-4ddf-81bf-f726ba9ab1ff)
 
 # 📈 Stats:
-
-[![wakatime](https://wakatime.com/badge/user/018d0fc7-22b5-4313-ada8-9b7e410bdbdb.svg)](https://wakatime.com/@018d0fc7-22b5-4313-ada8-9b7e410bdbdb), [![Inteleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inteleonyx)](https://github.com/anuraghazra/github-readme-stats)[![github](https://img.shields.io/github/followers/Inteleonyx?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
