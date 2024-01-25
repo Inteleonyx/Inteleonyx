@@ -19,11 +19,19 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
 ![4e06c2957def0eeed5be4b0a4bbe871b](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/ae9e8399-8cea-4817-a69a-85f5272121aa) ![docker](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/cb14354f-bed7-4fc6-ab01-be78ab34e888)
 
 
-- Databases>:
+- Databases:
   
  ![Mysql_logo](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/d6f7a8b7-f202-4f46-9555-d52b28894f32) ![mongodb_original_wordmark_logo_icon_146425](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/f0e61bd6-f1d1-4f9b-8383-0d012b094cc6)
 
 
+- Libs:
+
+![openai-chatgpt-logo-icon-free-png](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/fceca62f-b17d-4077-b945-7071449878fd)
+![logo-round](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/80485f93-ddaf-4dd6-8414-e4cc29539759)
+![d75f74f6](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/2347c72d-50d5-427d-9a1c-e9386676415a)
+![21025855](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/fedd5f15-4637-49ff-94ad-cca852e93fd6)
+![1390178](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/a79fc31a-0f46-4396-9461-ba50fa93f8bd)
+![256](https://github.com/Inteleonyx/Inteleonyx/assets/108963727/062afc33-4a95-4d75-9ac4-8758d59d5c88)
 
   
 - Programming languages:
