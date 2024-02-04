@@ -26,7 +26,7 @@ Discord: [`Inteleonyx`](https://discordapp.com/users/1012456421641703555)
   
 - Languages:
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/Inteleonyx)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py)](https://github.com/Inteleonyx)
 
 # 📈 Stats:
 
