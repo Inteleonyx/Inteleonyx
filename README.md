@@ -12,4 +12,4 @@ i'm inteleon
 ---
 [![](https://visitcount.itsvg.in/api?id=Inteleonyx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)][![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)]
