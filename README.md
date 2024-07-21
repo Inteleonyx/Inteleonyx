@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm inteleona
+i'm inteleon
 
 
 # 💻 Tech Stack:
