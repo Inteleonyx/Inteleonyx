@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm inteleon, a fullstack developer focused on java and kotlin and I develop websites too.
 
+# 🔭 How to contact me?
+Discord: `inteleonyx`
 
 # 💻 Tech Stack:
 **Languages:**
