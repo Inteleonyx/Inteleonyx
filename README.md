@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm inteleon
+I'm inteleon, a fullstack developer focused on java and kotlin and I develop websites too.
 
 
 # 💻 Tech Stack:
