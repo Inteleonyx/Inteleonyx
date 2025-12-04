@@ -23,7 +23,7 @@ Discord: `inteleonyx`
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 # 📊 GitHub Stats:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Inteleonyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
