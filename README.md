@@ -12,5 +12,5 @@ Send a friend request to my discord! `inteleonyx`
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inteleonyx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![visitcount](https://visitcount.itsvg.in/api?id=Inteleonyx&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=inteleonyx.visitor-badge)
 [![wakatime](https://wakatime.com/badge/user/018d0fc7-22b5-4313-ada8-9b7e410bdbdb.svg)](https://wakatime.com/@018d0fc7-22b5-4313-ada8-9b7e410bdbdb)
