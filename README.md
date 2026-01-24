@@ -57,6 +57,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Tailwind Css" src="https://img.shields.io/badge/TAILWIND_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
     <img alt="Svelte" src="https://img.shields.io/badge/SVELTE-151515?style=for-the-badge&logo=svelte&logoColor=FF3E00">
     <img alt="Laravel" src="https://img.shields.io/badge/LARAVEL-151515?style=for-the-badge&logo=laravel&logoColor=%23FF2D20">
+    <img alt="Symfony" src="https://img.shields.io/badge/SYMFONY-151515?style=for-the-badge&logo=SYMFONY">
     <img alt="Git" src="https://img.shields.io/badge/GIT-151515?style=for-the-badge&logo=git&logoColor=F05032">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/INTELLIJ_IDEA-151515?style=for-the-badge&logo=intellijidea">
     <img alt="Insomnia" src="https://img.shields.io/badge/INSOMNIA-151515?style=for-the-badge&logo=insomnia&logoColor=4000BF">
