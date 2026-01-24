@@ -84,7 +84,7 @@ Send a friend request to my discord! `inteleonyx`
 
 # 📊 GitHub Stats:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=dark&langs_count=10)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inteleonyx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Inteleonyx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Inteleonyx">
