@@ -59,6 +59,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Insomnia" src="https://img.shields.io/badge/INSOMNIA-151515?style=for-the-badge&logo=insomnia&logoColor=4000BF">
     <img alt="VS CODE" src="https://img.shields.io/badge/VS_CODE-151515?style=for-the-badge">
     <img alt="Bash" src="https://img.shields.io/badge/BASH-151515?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GRADLE-151515?style=for-the-badge&logo=gradle&logoColor=02303A">
 
 * Operating System:
 
