@@ -23,8 +23,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Dart" src="https://img.shields.io/badge/DART-151515?style=for-the-badge&logo=dart&logoColor=0175C2">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=E34F26">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=css&logoColor=663399">
-    
-    
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=%23777BB4">    
 
 * Database:
 
@@ -57,6 +56,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Express.js" src="https://img.shields.io/badge/EXPRESS.JS-151515?style=for-the-badge&logo=express&logoColor=FFFFFF">
     <img alt="Tailwind Css" src="https://img.shields.io/badge/TAILWIND_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
     <img alt="Svelte" src="https://img.shields.io/badge/SVELTE-151515?style=for-the-badge&logo=svelte&logoColor=FF3E00">
+    <img alt="Laravel" src="https://img.shields.io/badge/LARAVEL-151515?style=for-the-badge&logo=laravel&logoColor=%23FF2D20">
     <img alt="Git" src="https://img.shields.io/badge/GIT-151515?style=for-the-badge&logo=git&logoColor=F05032">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/INTELLIJ_IDEA-151515?style=for-the-badge&logo=intellijidea">
     <img alt="Insomnia" src="https://img.shields.io/badge/INSOMNIA-151515?style=for-the-badge&logo=insomnia&logoColor=4000BF">
