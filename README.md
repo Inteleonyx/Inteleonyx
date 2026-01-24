@@ -34,6 +34,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="SQLite" src="https://img.shields.io/badge/SQLITE-151515?style=for-the-badge&logo=sqlite&logoColor=003B57">
     <img alt="Redis" src="https://img.shields.io/badge/REDIS-151515?style=for-the-badge&logo=redis&logoColor=FF4438">
     <img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-151515?style=for-the-badge&logo=mongodb&logoColor=47A248">
+    <img alt="InfluxDB" src="https://img.shields.io/badge/INFLUXDB-151515?style=for-the-badge&logo=influxdb&logoColor=22ADF6">
 
 * Servers:
 
@@ -41,6 +42,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="NGINX" src="https://img.shields.io/badge/NGINX-151515?style=for-the-badge&logo=nginx&logoColor=009639">
     <img alt="Apache" src="https://img.shields.io/badge/APACHE-151515?style=for-the-badge&logo=apache&logoColor=D22128">
     <img alt="Kubernetes" src="https://img.shields.io/badge/KUBERNETES-151515?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+    <img alt="Traefik" src="https://img.shields.io/badge/TRAEFIK-151515?style=for-the-badge&logo=traefikproxy&logoColor=24A1C1">
 
 
 * Tools:
@@ -49,6 +51,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Spring Boot" src="https://img.shields.io/badge/SPRING-151515?style=for-the-badge&logo=spring&logoColor=6DB33F">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-151515?style=for-the-badge&logo=.net&logoColor=512BD4">
     <img alt="Node.JS" src="https://img.shields.io/badge/NODE.JS-151515?style=for-the-badge&logo=node.js&logoColor=5FA04E">
+    <img alt="Deno" src="https://img.shields.io/badge/DENO-151515?style=for-the-badge&logo=DENO&logoColor=%2370FFAF">
     <img alt="React" src="https://img.shields.io/badge/REACT-151515?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img alt="Flutter" src="https://img.shields.io/badge/FLUTTER-151515?style=for-the-badge&logo=flutter&logoColor=02569B">
     <img alt="Express.js" src="https://img.shields.io/badge/EXPRESS.JS-151515?style=for-the-badge&logo=express&logoColor=FFFFFF">
@@ -60,10 +63,14 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="VS CODE" src="https://img.shields.io/badge/VS_CODE-151515?style=for-the-badge">
     <img alt="Bash" src="https://img.shields.io/badge/BASH-151515?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
     <img alt="Gradle" src="https://img.shields.io/badge/GRADLE-151515?style=for-the-badge&logo=gradle&logoColor=02303A">
+    <img alt="CMake" src="https://img.shields.io/badge/CMAKE-151515?style=for-the-badge&logo=CMAKE&logoColor=%23064F8C">
     <img alt="Blockbench" src="https://img.shields.io/badge/BLOCKBENCH-151515?style=for-the-badge&logo=blockbench&logoColor=1E93D9">
     <img alt="Godot" src="https://img.shields.io/badge/GODOT-151515?style=for-the-badge&logo=godotengine&logoColor=478CBF">
     <img alt="Unity" src="https://img.shields.io/badge/UNITY-151515?style=for-the-badge&logo=unity">
     <img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-151515?style=for-the-badge&logo=unrealengine">
+    <img alt="Grafana" src="https://img.shields.io/badge/GRAFANA-151515?style=for-the-badge&logo=grafana&logoColor=F46800">
+    <img alt="Prometheus" src="https://img.shields.io/badge/PROMETHEUS-151515?style=for-the-badge&logo=prometheus&logoColor=E6522C">
+    <img alt="Zabbix" src="https://img.shields.io/badge/ZABBIX-151515?style=for-the-badge">
 
 * Operating System:
 
