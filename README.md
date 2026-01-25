@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Inteleon, a fullstack developer specializing in Java and Kotlin, with experience building modern and efficient websites.
+Hi, I'm Inteleon. I'm a Fullstack Developer and Infrastructure Engineer. Specialized in Java and Kotlin, I build modern, efficient software and the resilient infrastructure that powers it. I am passionate about building systems and games.
 
 [![wakatime](https://wakatime.com/badge/user/018d0fc7-22b5-4313-ada8-9b7e410bdbdb.svg)](https://wakatime.com/@018d0fc7-22b5-4313-ada8-9b7e410bdbdb)
 
