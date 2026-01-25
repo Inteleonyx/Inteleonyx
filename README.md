@@ -81,8 +81,9 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Ubuntu" src="https://img.shields.io/badge/UBUNTU-151515?style=for-the-badge&logo=ubuntu&logoColor=E95420">
     <img alt="Debian" src="https://img.shields.io/badge/DEBIAN-151515?style=for-the-badge&logo=debian&logoColor=A81D33">
     <img alt="iOS" src="https://img.shields.io/badge/iOS-151515?style=for-the-badge&logo=ios&logoColor=FFFFF">
-    <img alt="Static Badge" src="https://img.shields.io/badge/macOS-151515?style=for-the-badge&logo=macos&logoColor=FFFFF">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID-151515?style=for-the-badge&logo=android&logoColor=3DDC84">
+    <img alt="macOS" src="https://img.shields.io/badge/macOS-151515?style=for-the-badge&logo=macos&logoColor=FFFFF">
+    <img alt="Android" src="https://img.shields.io/badge/ANDROID-151515?style=for-the-badge&logo=android&logoColor=3DDC84">
+    <img alt="NixOS" src="https://img.shields.io/badge/NIXOS-151515?style=for-the-badge&logo=nixos&logoColor=%235277C3">
 
 # 📊 GitHub Stats:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=dark&langs_count=10)
