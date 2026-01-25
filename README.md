@@ -72,6 +72,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="Grafana" src="https://img.shields.io/badge/GRAFANA-151515?style=for-the-badge&logo=grafana&logoColor=F46800">
     <img alt="Prometheus" src="https://img.shields.io/badge/PROMETHEUS-151515?style=for-the-badge&logo=prometheus&logoColor=E6522C">
     <img alt="Zabbix" src="https://img.shields.io/badge/ZABBIX-151515?style=for-the-badge">
+    <img alt="Terraform" src="https://img.shields.io/badge/TERRAFORM-151515?style=for-the-badge&logo=terraform&logoColor=%23844FBA">
 
 * Operating System:
 
