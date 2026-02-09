@@ -86,7 +86,7 @@ Send a friend request to my discord! `inteleonyx`
     <img alt="NixOS" src="https://img.shields.io/badge/NIXOS-151515?style=for-the-badge&logo=nixos&logoColor=%235277C3">
 
 # 📊 GitHub Stats:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=dark&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Inteleonyx&show_icons=true&layout=compact&theme=dark&langs_count=10)
 ![](https://github-readme-stats.vercel.app/api?username=Inteleonyx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
