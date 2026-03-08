@@ -77,6 +77,7 @@ Send a friend request to my discord! `inteleonyx`
 * Operating System:
 
     <img alt="Arch Linux" src="https://img.shields.io/badge/ARCH_LINUX-151515?style=for-the-badge&logo=archlinux&logoColor=1793D1">
+    <img alt="Fedora" src="https://img.shields.io/badge/FEDORA-151515?style=for-the-badge&logo=fedora">
     <img alt="Windows" src="https://img.shields.io/badge/WINDOWS-151515?style=for-the-badge&logoColor=1793D1">
     <img alt="Ubuntu" src="https://img.shields.io/badge/UBUNTU-151515?style=for-the-badge&logo=ubuntu&logoColor=E95420">
     <img alt="Debian" src="https://img.shields.io/badge/DEBIAN-151515?style=for-the-badge&logo=debian&logoColor=A81D33">
